@@ -1,1 +1,2 @@
-# TrashBinForCode
+# CodeArchive
+Archive of various code snippets
