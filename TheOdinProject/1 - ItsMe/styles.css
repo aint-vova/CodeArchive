@@ -1,0 +1,43 @@
+* {
+    font-family: 'Silkscreen', sans-serif;
+}
+
+.emphasized {
+    padding: 10px;
+    margin: 10px;
+    border: rgb(200, 200, 200) solid 1px;
+}
+
+.emphasized.warning {
+    padding: 10px;
+    margin: 10px;
+    border: rgb(238, 147, 131) solid 1px;
+}
+
+span.title {
+    display: block;
+    font-size: 24px;
+    /* font-weight: 600; */
+    margin: 10px;
+}
+
+div.list {
+    display: flex;
+}
+
+span.element {
+    color: rgb(128, 128, 128);
+    font-size: 12px;
+}
+
+img.warning-icon {
+    height: auto;
+    width: 20px;
+    vertical-align: middle;
+}
+
+span.warning-content {
+    color: rgb(238, 147, 131);
+    vertical-align: middle;
+    font-size: 12px;
+}
